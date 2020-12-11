@@ -1,1 +1,1 @@
-# Spark SQL and PySpark Assignment by Unviversity of East London (FreelanceWork)
+# Spark SQL and PySpark Assignment by University of East London (FreelanceWork)
